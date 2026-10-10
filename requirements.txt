@@ -1,0 +1,9 @@
+torch
+numpy
+scipy
+SimpleITK
+monai
+batchgenerators
+scikit-image
+tensorboard
+tqdm
